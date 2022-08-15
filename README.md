@@ -1,2 +1,2 @@
 # neogProjects
-Created with CodeSandbox
+Created with CodeSandbox, AJAX, JS..
