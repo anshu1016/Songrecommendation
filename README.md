@@ -1,2 +1,3 @@
-# neogProjects
-Created with CodeSandbox, AJAX, JS..
+# SongRecommendation
+JavaScript, React
+This app suggests you songs according to favourite genre..
